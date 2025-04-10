@@ -124,10 +124,10 @@ const Dashboard = () => {
 
   // Response time metrics data for chart
   const metricsData = [
-    { name: 'Urgent', value: 15, fill: '#ef4444' },
-    { name: 'High', value: 30, fill: '#f59e0b' },
-    { name: 'Medium', value: 60, fill: '#2563eb' },
-    { name: 'Low', value: 120, fill: '#22c55e' },
+    { name: 'Urgent', value: 15, fill: '#8b5cf6' },
+    { name: 'High', value: 30, fill: '#6366f1' },
+    { name: 'Medium', value: 60, fill: '#3b82f6' },
+    { name: 'Low', value: 120, fill: '#2563eb' },
   ];
 
   return (

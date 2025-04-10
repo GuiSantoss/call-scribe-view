@@ -64,9 +64,9 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				status: {
-					resolved: '#22c55e',
-					'in-progress': '#f59e0b',
-					urgent: '#ef4444',
+					resolved: '#3b82f6',
+					'in-progress': '#6366f1',
+					urgent: '#8b5cf6',
 					new: '#2563eb'
 				}
 			},
